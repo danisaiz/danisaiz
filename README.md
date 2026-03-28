@@ -45,10 +45,6 @@ Me apasiona convertir ideas en productos funcionales. No me limito a un sector e
 
 * **Web:** [danisaiz.dev](https://danisaiz.dev)
 * **Email:** [danisaiz@gmail.com](mailto:danisaiz@gmail.com)
-* **Discord:** `danisaiz`
+* **Discord:** `dani_saiz`
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danisaiz&theme=tokyonight&background=000000&fire=FFD700&ring=FFD700&sideNums=FFD700&sideLabels=FFFFFF&dates=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700" alt="GitHub Streak" />
-</p>
