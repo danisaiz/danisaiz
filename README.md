@@ -1,44 +1,54 @@
-# ⚡ Danisaiz | Fullstack Developer & CS Student
+# ⚡ Dani Saiz | Fullstack Developer & CS Student
 
-Soy un desarrollador enfocado en construir soluciones robustas y escalables. Aunque me muevo con soltura en todo el stack, mi hábitat natural es el **backend** y la gestión de entornos **Linux** para el despliegue de aplicaciones.
+Soy un desarrollador enfocado en construir soluciones robustas y escalables. Aunque me muevo con soltura en todo el stack, mi hábitat natural es el **backend**.
 
 Actualmente, compagino mi trabajo con el **Grado en Ingeniería Informática**, buscando siempre la intersección entre el rigor académico y la agilidad del desarrollo moderno.
 
------
+---
 
 ### 🛠️ Tech Stack & Herramientas
 
-  * **Core:** TypeScript, JavaScript, Node.js.
-  * **Backend & DB:** Supabase (mi elección predilecta), PostgreSQL, REST APIs.
-  * **Frontend:** React, Next.js, Expo.
-  * **Infra:** Linux (administración y despliegue), Docker, Git.
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFD700)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FFD700)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FFD700)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFD700)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FFD700)
 
------
+* **Core:** TypeScript, Node.js, JavaScript.
+* **Backend & DB:** Supabase (mi elección predilecta), PostgreSQL.
+* **Frontend:** React, Next.js, Expo / React Native.
+* **Infra:** Linux (administración y despliegue), Docker, Git.
+
+---
 
 ### 🚀 Proyectos y Enfoque
 
-Me apasiona convertir ideas en productos funcionales. No me limito a un sector específico; si hay un problema que puede resolverse con código, lo desarrollo.
+Me apasiona convertir ideas en productos funcionales. No me limito a un sector específico; si hay un problema que puede resolverse con código, lo desarrollo. 
 
 > Puedes ver una muestra de mi trabajo y mi portfolio detallado en:  
 > 🔗 **[danisaiz.dev](https://danisaiz.dev)**
 
------
+---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Activity
 
-\<p align="left"\>
-\<img src="[https://github-readme-stats.vercel.app/api?username=danisaiz\&show\_icons=true\&theme=highcontrast\&hide\_border=true\&bg\_color=000000\&title\_color=FFD700\&text\_color=FFFFFF\&icon\_color=FFD700](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddanisaiz%26show_icons%3Dtrue%26theme%3Dhighcontrast%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3DFFD700%26text_color%3DFFFFFF%26icon_color%3DFFD700)" alt="Estadísticas de Danisaiz" height="150" /\>
-\<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=danisaiz\&layout=compact\&theme=highcontrast\&hide\_border=true\&bg\_color=000000\&title\_color=FFD700\&text\_color=FFFFFF](https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddanisaiz%26layout%3Dcompact%26theme%3Dhighcontrast%26hide_border%3Dtrue%26bg_color%3D000000%26title_color%3DFFD700%26text_color%3DFFFFFF)" alt="Lenguajes más usados" height="150" /\>
-\</p\>
+| Category | Tools / Focus |
+| :--- | :--- |
+| **Current Study** | B.S. in Computer Science (Ingeniería Informática) |
+| **Main Stack** | TypeScript & Supabase |
+| **Environment** | Linux Platforms |
+| **Open to** | Collaborations & Backend Challenges |
 
------
+---
 
-### 🤝 Contacto & Conectividad
+### 🤝 Contacto
 
-Estoy siempre abierto a colaborar en proyectos interesantes o charlar sobre ingeniería:
+* **Web:** [danisaiz.dev](https://danisaiz.dev)
+* **Email:** [danisaiz@gmail.com](mailto:danisaiz@gmail.com)
+* **Discord:** `danisaiz`
 
-  * **Email:** [danisaiz@gmail.com](mailto:danisaiz@gmail.com)
-  * **Discord:** `danisaiz`
-  * **Web:** [danisaiz.dev](https://danisaiz.dev)
+---
 
------
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danisaiz&theme=tokyonight&background=000000&fire=FFD700&ring=FFD700&sideNums=FFD700&sideLabels=FFFFFF&dates=FFD700&currStreakLabel=FFD700&currStreakNum=FFD700" alt="GitHub Streak" />
+</p>
