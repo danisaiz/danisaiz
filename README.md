@@ -44,7 +44,7 @@ Me apasiona convertir ideas en productos funcionales. No me limito a un sector e
 ### 🤝 Contacto
 
 * **Web:** [danisaiz.dev](https://danisaiz.dev)
-* **Email:** [danisaiz@gmail.com](mailto:danisaiz@gmail.com)
+* **Email:** [danisaizgz@gmail.com](mailto:danisaizgz@gmail.com)
 * **Discord:** `dani_saiz`
 
 ---
